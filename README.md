@@ -6,6 +6,12 @@
 **Arduino Uno**
 <p><img src ="arduino uno.jpg" title="Arduino uno" /> </p>
 
+**Led**
+<p><img src = "LED.jpg" title = "LED" /></p>
+
+**Resistor**
+
+<p><img src = "resistor.jpg" title = "Resistor" /> </p>
 
 **Wires**
 
