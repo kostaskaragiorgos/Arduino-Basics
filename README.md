@@ -7,6 +7,11 @@
   <li> .jpg files </li>
 </ul>
 
+## Dependencies
+ <ul>
+  <li> need to download and install the arduino ide https://www.arduino.cc/en/Main/Software </li>
+  </ul>
+
 ## WHAT YOU NEED
 
 
